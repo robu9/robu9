@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushay Jain</h1>
 <h3 align="center">A passionate Full Stack Developer and AI enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Paxio](paxio.tech)
+- 🔭 I’m currently working on [Paxio](https://paxio.tech/)
 
 - 🌱 I’m currently learning **DevOps**
 
