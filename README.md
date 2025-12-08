@@ -10,16 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushayjain)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codewithrobu) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anushayjain7622@gmail.com)
 
----
-
-## About Me
-
-I am a Computer Science student who enjoys designing scalable and maintainable applications, exploring modern software architecture, and solving real-world problems with clean and efficient code. I work across full-stack development while also pursuing a deep interest in artificial intelligence, studying automation, intelligent systems, and their practical applications. I am continuously learning new technologies, refining my skills, and contributing to projects that create meaningful impact across both domains.
-
----
-
-
-
 
 
 <br/><br/>
