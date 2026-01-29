@@ -6,7 +6,7 @@
 
 # Anushay Jain
 
-**Full Stack Developer • Artificial Intelligence & Machine Learning Engineer**
+**Full Stack Developer • Artificial Intelligence & Machine Learning Engineer • Building Paxio — Your AI Crew | AI Agents & Automation **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushayjain)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codewithrobu) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anushayjain7622@gmail.com)
 
