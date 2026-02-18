@@ -4,7 +4,7 @@
 
 <br/>
 
-# Anushay Jain
+# Robu
 
 **Full Stack Developer • Artificial Intelligence & Machine Learning Engineer • Building Paxio — Your AI Crew | AI Agents & Automation**
 
@@ -20,7 +20,7 @@
 
 -  I’m currently working on **[Paxio](https://paxio.tech/)**  
 -  I’m currently learning **DevOps**  
--  Reach me at **anushayjain7622@gmail.com**  
+-  Reach me at **https://x.com/codewithrobu**  
 -  Fun fact **I'm good at video games**
 
     </td>
