@@ -37,12 +37,11 @@
 
 ---
 
-### Languages and Tools:
+
 
 <!-- Programming Languages -->
 ### Languages and Tools:
 
-<!-- Programming Languages -->
 [![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://www.cprogramming.com/)
 [![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://www.w3schools.com/cpp/)
 [![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
