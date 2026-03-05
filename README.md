@@ -40,6 +40,9 @@
 ### Languages and Tools:
 
 <!-- Programming Languages -->
+### Languages and Tools:
+
+<!-- Programming Languages -->
 [![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://www.cprogramming.com/)
 [![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://www.w3schools.com/cpp/)
 [![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
@@ -50,31 +53,45 @@
 [![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux&logoColor=764ABC)](https://redux.js.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)](https://tailwindcss.com/)
+[![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://ui.shadcn.com/)
 [![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 <!-- Backend -->
 [![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-111827?style=for-the-badge&logo=graphql&logoColor=E10098)](https://graphql.org/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-111827?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io/)
+[![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com/)
 
 <!-- Databases -->
 [![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-111827?style=for-the-badge&logo=mongoose&logoColor=880000)](https://mongoosejs.com/)
 
 <!-- Tools -->
 [![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://postman.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626)](https://jupyter.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)](https://streamlit.io/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)](https://opencv.org/)
 
 <!-- ML / AI -->
+[![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458)](https://pandas.pydata.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://tensorflow.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-111827?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org/)
+[![Keras](https://img.shields.io/badge/Keras-111827?style=for-the-badge&logo=keras&logoColor=D00000)](https://keras.io/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)](https://scikit-learn.org/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/)
 
 ---
 
