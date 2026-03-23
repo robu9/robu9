@@ -93,7 +93,8 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/)
 
 ---
-
+<!--
 <p align="center">
   <img src="https://github.com/robu9/robu9/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
+-->
