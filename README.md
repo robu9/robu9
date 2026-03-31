@@ -18,7 +18,8 @@
   <tr>
     <td>
 
--  I’m currently working on **[Paxio](https://paxio.tech/)**  
+-  I’m currently working on **[Paxio](https://paxio.tech/)**
+-  Check out my work on my **[Portfolio](https://robuworks.vercel.app/)**
 -  I’m currently learning **DevOps**  
 -  Reach me at **https://x.com/codewithrobu**  
 -  Fun fact **I'm good at video games**
