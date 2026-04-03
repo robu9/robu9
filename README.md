@@ -94,6 +94,20 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/)
 
 ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=robu9&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=robu9&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=robu9&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 <!--
 <p align="center">
   <img src="https://github.com/robu9/robu9/blob/output/github-snake-dark.svg" alt="snake gif" />
